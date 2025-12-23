@@ -10,7 +10,7 @@
 
 Tugas ini Menggabungkan Praktikum 13 dan Praktikum 14 dimana kita harus Membuat Pagination dan Membuat Pencarian Data. Disini saya membuat web baru untuk praktek tersebut saja.
 
-## Membuat Web
+## Membuat Web dan Database
 
 1. Pertama kita buat database.
 
